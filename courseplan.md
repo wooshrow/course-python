@@ -1,28 +1,32 @@
 # Course Plan 2022
 
-### Day-1: Foundation
+----
+## Day-1: Foundation
+----
 
-* 9:00 - 10:00. Getting to know each other :)
-* 10:00 - 10:45. Lecture: [Introduction computation thinking](./Lecturenotes/L01_Computational_Thinking.md)
+##### 9:00 - 10:00. Opening and getting to know each other :)
+##### 10:00 - 10:30. Lecture-1 [Computation Thinking](./Lecturenotes/L01_Computational_Thinking.md)
+##### 10:30 - 11:30. Coffee, then working on [assignments from Lecture-1](./Lecturenotes/L01_Computational_Thinking.md)
+##### 11:30 - 12:30. Lecture-2 Basic Programming: variables, console I/O, control structures, defining and calling functions.
+##### 12:30 - 13:15. Lunch
+##### 13:15 - 14:30. We will first explain how to work with with Jupyter, then you can do exercises from Lecture-2.
+##### 14:30 - 15:30. Lectures.
+* Lecture-3 Basic Work Cycle: writing and running program on your local machine.
+* Lecture-4 Data Types: bool, numeric, string, list, tuple, dict, set. Iterating over data.
+
+##### 15:30 - 17:00. Coffee, then working on assignments from Lecture-4.     
 
 
-* Run-1.1 lectures (2h)
-    * Introduction: computation thinking
-    * Basic programming: variables, console I/O, control structures, defining and calling function
-    * Basic work cycle: writing and running program
-
-  **Assignment**
+----
+## Day-2: Application
+----
 
 * Run-1.2 lectures (2h)
-    * Data types: bool, numeric, string, list, tuple, dict, set
-    * More on loops
     * Using modules
     * File I/O and error handling
     * Testing
 
   **Assignment**
-
-### Day-2: Application
 
 * Run-2.1 lectures (2h)
     * Loop and recursion
