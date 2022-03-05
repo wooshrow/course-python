@@ -2,6 +2,11 @@
 
 ### Day-1: Foundation
 
+* 9:00 - 10:00. Getting to know each other :)
+* 10:00 - 10:45. Lecture: [Introduction computation thinking](./Lecture Notes/L01 Computational Thinking.md)
+
+
+
 * Run-1.1 lectures (2h)
     * Introduction: computation thinking
     * Basic programming: variables, console I/O, control structures, defining and calling function
