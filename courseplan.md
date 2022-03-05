@@ -6,52 +6,67 @@
 
 ##### 9:00 - 10:00. Opening and getting to know each other :)
 ##### 10:00 - 10:30. Lecture-1 [Computation Thinking](./Lecturenotes/L01_Computational_Thinking.md)
-##### 10:30 - 11:30. Coffee, then working on [assignments from Lecture-1](./Lecturenotes/L01_Computational_Thinking.md)
+##### 10:30 - 11:30. Coffee break, then working on [exercises from Lecture-1](./Lecturenotes/L01_Computational_Thinking.md)
 ##### 11:30 - 12:30. Lecture-2 Basic Programming: variables, console I/O, control structures, defining and calling functions.
-##### 12:30 - 13:15. Lunch
-##### 13:15 - 14:30. We will first explain how to work with with Jupyter, then you can do exercises from Lecture-2.
+##### 12:30 - 13:15. Lunch break.
+##### 13:15 - 14:30. Exercises.
+
+We will first explain how to work with with Jupyter, then you can do exercises from Lecture-2 in Jypyter,
+
 ##### 14:30 - 15:30. Lectures.
 * Lecture-3 Basic Work Cycle: writing and running program on your local machine.
 * Lecture-4 Data Types: bool, numeric, string, list, tuple, dict, set. Iterating over data.
 
-##### 15:30 - 17:00. Coffee, then working on assignments from Lecture-4.     
+##### 15:30 - 17:00. Coffee break, then exercises.
+
+Working on exercises from Lecture-4; do it on your laptop :)    
 
 
 ----
-## Day-2: Application
+## Day-2: Next Level
 ----
 
-* Run-1.2 lectures (2h)
-    * Using modules
-    * File I/O and error handling
-    * Testing
+##### 09:00 - 10:45 Lectures
 
-  **Assignment**
+* Lecture-5 Recursion.
+* Lecture-6 Modules, File I/O, and Error Handling.
+* Lecture-7 Testing
 
-* Run-2.1 lectures (2h)
-    * Loop and recursion
-    * Object Oriented in Python
-    * GUI programming
+##### 10:45 - 12:15. Coffee break, then working on exercises.
 
-  **Assignment**
+##### 12:15 - 13:00. Lunch break.
 
-* Run-2-2 lecture (2h)
+##### 13:00 - 14:45. Lectures.
 
-   * Accessing remote resources
-   * Python libraries for Data Science
-
-   **Assignment**
+* Lecture-8: Advanced Programming Concepts (Lambda, Higher Order Functions, and Objects)
+* Lecture-9: Graphical User Interface
 
 
-### Day-3: Next Level
+##### 14:45 - 17:00. Coffee break, then a small project.
 
-* Run-3-1 lecture (2h)
-    * Regular expression
-    * Programming with higher order functions
-    * Concurrent and parallel programming
+----
+## Day-3: Application
+----
 
-  **Assignment**
+##### 09:00 - 10:45. Lectures
 
-  **Project**
+* Lecture-10: Concurrent and Parallel programming.
+* Lecture-11: Utilities (regular expressions, accessing remote resources).
 
-### Day-4: Project  
+##### 10:45 - 12:15. Coffee break, then doing exercises.
+
+##### 12:15 - 13:00. Lunch break
+
+##### 13:00 - 14:00. Lecture-11: Python libraries for Data Science
+
+##### 14:00 - 17:00. Coffee break, then a small project.
+
+-----
+## Day-4: Project  
+-----
+
+##### 09:00 - 11:00. Continue working on your project.
+
+##### 11:00 - 12:00. Break, then wrap up, write a report.
+
+##### 12:00 - 12:30. Closing.
