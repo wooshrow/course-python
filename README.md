@@ -1,6 +1,6 @@
 # A Course Python
 
-This is course to learn the Python programming language.
+This is a course to learn the Python programming language.
 
 ### Hardware and software requirement
 
@@ -12,28 +12,33 @@ Install the following on your laptop:
 
 1. Install [Python 3.x](https://www.python.org/), at least version 3.7. The latest now is 3.10.
 
-  To check if you have the right version, open a Command Line shell, and do:
+    To check if you have the right version, open a Command Line shell, and do:
 
     `python3 --version`
 
-  Check if you also get `pip3`, which is Python's official package manager; you need this for installing packages which are not in the standard Python distributions (for example data-science related packages). To check if you have pip3, do this in your Command Line shell:
+    Check if you also get `pip3`, which is Python's official package manager; you need this for installing packages which are not in the standard Python distributions (for example data-science related packages). To check if you have pip3, do this in your Command Line shell:
 
     `pip3 --version`
 
-1. Install Visual Studio Code; we will use this later as a text editor to write programs.
-  * Install Jupyter. This gives you an easy to use working environment to do our exercises at the beginning.
+1. Install [Visual Studio Code (VSC)](https://code.visualstudio.com/); we will use this later as a text editor to write programs.
 
-1. After you installed Python 3.x (above), you can install `Jupyter Notebook` from Python 3.x. Open a Command Line shell. From there do these:
+    From VSC, install the Python extensions. This shoukd also intsall Jupyter extension. If Jupyter extension is installed, you can just do `Open Folder` from VSC to open the directory `Lecturenotes`. After this you can browse the lecture notes from VSC.
+
+1. Install Jupyter. This gives you an easy to use working environment to do our exercises at the beginning.
+
+    After you installed Python 3.x (above), you can install `Jupyter Notebook` from Python 3.x. Open a Command Line shell. From there do these:
 
       `pip3 install --upgrade pip`
 
       `pip3 install jupyter`
 
-   After installing Jupyter, to try that it works, from the Command Line shell, go to the directory where you unziped this course, and do:
+    After installing Jupyter, to try that it works, from the Command Line shell, go to the directory where you unziped this course, and do:
 
       `jupyter notebook`
 
-    This should open Jupyter in your web-browser. From there, browse the course materials, load one of the `*.ipynb` file in the folder `Lecturenotes`.   
+    This should open Jupyter in your web-browser. From there, browse the course materials, load one of the `*.ipynb` file in the folder `Lecturenotes`.  
+
+    You can use either this web-browser-based Jupyter, or VSC Jupyter. 
 
 ### [Course Plan, click here](./courseplan.md)
 
