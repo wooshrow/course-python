@@ -1,4 +1,4 @@
-# A Course Python
+# A Course on Python
 
 This is a course to learn the Python programming language.
 
@@ -10,11 +10,13 @@ Install the following on your laptop:
 
 1. Download this course-repository to your laptop. For example you [can download its zip here](https://github.com/wooshrow/course-python/archive/refs/heads/main.zip).
 
-1. Install **Python 3.x** from https://www.python.org/ , at least version 3.7. The latest now is 3.10.
+1. Install **Python 3.x** from https://www.python.org/ , at least version 3.9. The latest now is 3.10.
 
-    To check if you have the right version, open a **Command Line Interface (CLI)**, and do:
+    To check if you have the right version, open a **Command Line Interface (CLI)** (also called 'Command Prompt' in Windows), and do one of these:
 
     `python3 --version`
+
+    `python --version`
 
     Check if you also get `pip3`, which is Python's official package manager; you need this for installing packages which are not in the standard Python distributions (for example data-science related packages). To check if you have pip3, do this in your CLI:
 
@@ -22,11 +24,11 @@ Install the following on your laptop:
 
 1. Install **Visual Studio Code (VSC)** from https://code.visualstudio.com/ ; we will use this later as a text editor to write programs.
 
-    From VSC, install the Python extensions. This shoukd also intsall Jupyter extension. If Jupyter extension is installed, you can just do `Open Folder` from VSC to open the directory `Lecturenotes`. After this you can browse the lecture notes from VSC.
+    From VSC, install the _Python Extensions_. This shoukd also intsall Jupyter extension. If Jupyter extension is installed, you can just do `Open Folder` from VSC to open the directory `Lecturenotes` of this course. After this you can browse the lecture notes from VSC.
 
 1. Install Jupyter. This gives you an easy to use working environment to do our exercises at the beginning.
 
-    After you installed Python 3.x (above), you can install `Jupyter Notebook` from Python 3.x. From CLI there do these:
+    After you installed Python 3.x (above), you can install `Jupyter Notebook` from Python 3.x. From CLI, do these:
 
       `pip3 install --upgrade pip`
 
