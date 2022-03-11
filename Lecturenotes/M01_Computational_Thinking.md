@@ -1,8 +1,7 @@
 # Module 1: Computational Thinking
 
-Before we go into programming, let first get into a 'problem solving' state of mind :) In essence, programming is all about solving problems. A programming language is just a tool for us to write down the solution in a way that a computer can carry out the calculation. The most important part is the solution we have in our mind; without that, there can be no program either. But of course, 'programming' is also important, because that is how we get the computers to do what we want.
+Before we go into programming, let first get into a 'problem solving' state of mind :) 
 
-## Computational Thinking
 Computational Thinking is considered one of the fundamental skills of the 21st century. It is about expressing problems and their solutions in ways that a computer could execute. The term was coined by Jeanette Wing in 2006 (see the [original article published in the Communications of the ACM](http://www.cs.cmu.edu/afs/cs/usr/wing/www/publications/Wing06.pdf) if you are interested) and has increasingly been adopted by educators around the world since then.
 
 We will practice Computational Thinking in different ways during this course, often without explicitly saying so. It is important to realize that Computational Thinking does not require specific programming or coding skills. That is, you can think computationally without knowing a single word of Python or any other programming language!

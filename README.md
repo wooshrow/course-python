@@ -12,7 +12,12 @@ Install the following on your laptop:
 
 1. Install **Python 3.x** from https://www.python.org/ , at least version 3.9. The latest now is 3.10.
 
-    To check if you have the right version, open a **Command Line Interface (CLI)** (also called 'Command Prompt' in Windows), and do one of these:
+    To check if you have the right version, open a **Command Line Interface (CLI)** (also called 'Command Prompt' in Windows). In Mac a CLI looks like this:
+
+    ![Command Line Interface (CLI) in Mac](./Lecturenotes/img/CLI.png) 
+    
+    
+    In the CLI, type one of these commands:
 
     `python3 --version`
 
@@ -21,6 +26,19 @@ Install the following on your laptop:
     Check if you also get `pip3`, which is Python's official package manager; you need this for installing packages which are not in the standard Python distributions (for example data-science related packages). To check if you have pip3, do this in your CLI:
 
     `pip3 --version`
+
+1. Install the package `pandas` for Python. From CLI do one of these:
+
+     `pip3 install pandas`
+
+     `python3 -m pip install pandas`
+
+1. Test your Python installation. At CLI, go to root directory of this course materials. Then run the program `testme.py` from the CLI:
+
+     `python3 testme.py`
+
+    The program should not crash.     
+
 
 1. Install **Visual Studio Code (VSC)** from https://code.visualstudio.com/ ; we will use this later as a text editor to write programs.
 
@@ -38,9 +56,9 @@ Install the following on your laptop:
 
       `jupyter notebook`
 
-    This should open Jupyter in your web-browser. From there, browse the course materials, load one of the `*.ipynb` file in the folder `Lecturenotes`.  
+    This should open Jupyter in your web-browser. From there, browse the course materials, load one of the `*.ipynb` files in the folder `Lecturenotes`.  
 
-    You can use either this web-browser-based Jupyter, or VSC Jupyter. 
+    You can use either this web-browser-based Jupyter. Alternatively, use VSC to open and browse the folder `Lecturenotes`. From there just open one of the `*.ipynb` files in the folder, this will open the file in the Jupyter-mode in VSC. 
 
 ### [Course Plan, click here](./courseplan.md)
 
