@@ -4,9 +4,9 @@ This is a course to learn the Python programming language.
 
 ### Hardware and software requirement
 
-You need to bring your own laptop with either of this OS: Windows (at least Windows 10), or MacOS, or Linux.
+You need to bring your own laptop with either Windows (at least Windows 10), or MacOS, or Linux.
 
-Install the following on your laptop:
+To prepapre for the course, install the following on your laptop:
 
 1. Download this course-repository to your laptop. For example you [can download its zip here](https://github.com/wooshrow/course-python/archive/refs/heads/main.zip).
 
