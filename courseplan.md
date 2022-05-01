@@ -68,16 +68,9 @@ Working on exercises from Lecture-4; do it on your laptop :)
 
 #### 12:15 - 13:00. Lunch break
 
-#### 13:00 - 14:00. Lecture-11: Python libraries for Data Science
+#### 13:00 - 14:00. Lectures
+* Lecture-12: Python libraries for Data Science
 
 #### 14:00 - 17:00. Coffee break, then a small project.
 
------
-## Day-4: Project  
------
-
-#### 09:00 - 11:00. Continue working on your project.
-
-#### 11:00 - 12:00. Break, then wrap up, write a report.
-
-#### 12:00 - 12:30. Closing.
+#### 17:00. Closing
