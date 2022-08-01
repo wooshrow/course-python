@@ -7,22 +7,29 @@
 #### 9:00 - 10:00. Opening and getting to know each other :)
 #### 10:00 - 10:30. Lecture-1 Computation Thinking
 
-  | **Module:** | [M01](./Lecturenotes/M01_Computational_Thinking.md) |
-  | --- | --- |
-  | **Lecture:** | [L01](./Lectures/L01.md) |
+Lecture [L01](./Lectures/L01.md). We will do exercise 1-3. Exer-3 in teams.
 
-#### 10:30 - 11:30. Coffee break, then working on [exercises in M01](./Lecturenotes/M01_Computational_Thinking.md): No 3, 4, and 5.
 
-#### 11:30 - 12:30. Lecture-2 Basic Programming: variables, console I/O, control structures, defining and calling functions.
+#### 10:30 - 10:45. Coffee break.
 
-   | **Modules:** | [M03](./Lecturenotes/M03_Getting_Started_with_Python.ipynb), [M04](./Lecturenotes/M04_Boolean_Expressions_and_Conditional_Branching.ipynb), [M05](./Lecturenotes/M05_Loops.ipynb), [M06, only the section 'Function'](./Lecturenotes/M06_Functions_and_Modules.ipynb) |
-   | --- | --- |
-   | **Lecture:** | todo |
+#### 10:45 - 12:15. Lecture-2 Basic Programming: variables, console I/O, control structures, defining and calling functions.
 
-#### 12:30 - 13:15. Lunch break.
+* Printing, string, number, number operators: [M03](./Lecturenotes/M03_Getting_Started_with_Python.ipynb)
+* Variables, assignment: [M03](./Lecturenotes/M03_Getting_Started_with_Python.ipynb)
+* Input and output: [M03](./Lecturenotes/M03_Getting_Started_with_Python.ipynb)
+* Boolean expression, if-else, nested-if: [M04](./Lecturenotes/M04_Boolean_Expressions_and_Conditional_Branching.ipynb)
+* while-loop, beware non-termination, nested loop: [M05](./Lecturenotes/M05_Loops.ipynb)
+* break statement: [M05](./Lecturenotes/M05_Loops.ipynb)
+* for loop: [M05](./Lecturenotes/M05_Loops.ipynb)
+* defining and calling functions: [M06, only the section 'Function'](./Lecturenotes/M06_Functions_and_Modules.ipynb)
+
+#### 12:15 - 13:15. Lunch break.
 #### 13:15 - 14:30. Exercises.
 
-We will first explain how to work with with Jupyter, then you can do exercises from Lecture-2 in Jypyter,
+We will first explain how to work with with Jupyter, then you can do exercises:
+
+* [M06, only the section 'Function'](./Lecturenotes/M06_Functions_and_Modules.ipynb): No 1,2,5,6
+
 
 #### 14:30 - 15:30. Lectures.
 * Lecture-3 Basic Work Cycle: writing and running program on your local machine.
