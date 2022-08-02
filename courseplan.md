@@ -54,21 +54,33 @@ Exercises:
 
 #### 09:00 - 10:45 Lectures
 
-* Lecture-5 Recursion.
-* Lecture-6 Modules, File I/O, and Error Handling.
-* Lecture-7 Testing
+* Recursion: [M06](./Lecturenotes/06_Functions_and_Modules.ipynb)
+* Modules and packages: [M06](./Lecturenotes/06_Functions_and_Modules.ipynb)
+* File I/O, and Error Handling: [M08](./Lecturenotes/08_File_IO_and_Error_Handling.ipynb)
+* CSV-file: [M08](./Lecturenotes/08_File_IO_and_Error_Handling.ipynb)
+* Unit testing. Example test-code: [coba1_Test](./alt_lectures/coba1_Test.py), which provides a unit-test for the function average defined in the module [coba1](./alt_lectures/coba1.py).
+
+  To run the unit-test just do this in CLI: `python3 coba1_Test.py`.
 
 #### 10:45 - 12:15. Coffee break, then working on exercises.
 
-#### 12:15 - 13:00. Lunch break.
+* [M08](./Lecturenotes/08_File_IO_and_Error_Handling.ipynb), Exercise 1.
+* [M08](./Lecturenotes/08_File_IO_and_Error_Handling.ipynb), Exercise 3.
 
-#### 13:00 - 14:45. Lectures.
+#### 12:15 - 13:15. Lunch break.
 
-* Lecture-8: Advanced Programming Concepts (Lambda, Higher Order Functions, and Objects)
-* Lecture-9: Graphical User Interface
+#### 13:15 - 14:45. Lectures.
+
+* Advanced Programming Concepts (Lambda, Higher Order Functions, and Objects): [M12](./Lecturenotes/12_OO_Programming.ipynb)
+* Graphical User Interface: [M13](./Lecturenotes/13_GUIs_and_Executables.ipynb)
 
 
-#### 14:45 - 17:00. Coffee break, then a small project.
+#### 14:45 - 17:00. Coffee break, then exercises.
+
+
+* [M12](./Lecturenotes/12_OO_Programming.ipynb), Exercise 2.
+* [M12](./Lecturenotes/12_OO_Programming.ipynb), Exercise 3.
+
 
 ----
 ## Day-3: Application

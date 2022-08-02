@@ -13,8 +13,9 @@ def average(x,y,z):
     return av
 
 # just an example:
-print(f"average of 0,2,4 is {average(0,2,4)}")
-x1 = random.randint(0,10)
-x2 = random.randint(0,10)
-x3 = random.randint(0,10)
-print(f"average of {x1},{x2},{x3} is {average(x1,x2,x3)}")
+if __name__ == '__main__':
+   print(f"average of 0,2,4 is {average(0,2,4)}")
+   x1 = random.randint(0,10)
+   x2 = random.randint(0,10)
+   x3 = random.randint(0,10)
+   print(f"average of {x1},{x2},{x3} is {average(x1,x2,x3)}")
