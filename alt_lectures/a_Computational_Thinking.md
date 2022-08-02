@@ -1,4 +1,6 @@
-# Lecture 1: Computational Thinking
+# Module 1: Computational Thinking
+
+(a shorter version of 01)
 
 ## Computational Thinking
 
