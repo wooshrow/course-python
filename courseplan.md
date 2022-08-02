@@ -14,7 +14,7 @@ Lecture [A01](./alt_lectures/a_Computational_Thinking.md). We will do exercise 1
 
 #### 10:45 - 12:15. Lecture-2 Basic Programming: variables, console I/O, control structures, defining and calling functions.
 
-* Printing, string, number, number operators: [M03](./Lecturenotes/M02_Getting_Started_with_Python.ipynb)
+* Printing, string, number, number operators: [M03](./Lecturenotes/03_Getting_Started_with_Python.ipynb)
 * Variables, assignment: [M03](./Lecturenotes/03_Getting_Started_with_Python.ipynb)
 * Input and output: [M03](./Lecturenotes/03_Getting_Started_with_Python.ipynb)
 * Boolean expression, if-else, nested-if: [M04](./Lecturenotes/04_Boolean_Expressions_and_Conditional_Branching.ipynb)
