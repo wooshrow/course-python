@@ -71,9 +71,12 @@ Exercises:
 
 #### 13:15 - 14:45. Lectures.
 
-* Advanced Programming Concepts (Lambda, Higher Order Functions, and Objects): [M12](./Lecturenotes/12_OO_Programming.ipynb)
+We can either do these:
+
+* Advanced Programming Concepts (Objects, Lambda, Higher Order Functions): [M12](./Lecturenotes/12_OO_Programming.ipynb)
 * Graphical User Interface: [M13](./Lecturenotes/13_GUIs_and_Executables.ipynb)
 
+Alternatively, we only do "object" and then skip ahead to the programme of Day-3 morning.
 
 #### 14:45 - 17:00. Coffee break, then exercises.
 
@@ -88,16 +91,25 @@ Exercises:
 
 #### 09:00 - 10:45. Lectures
 
-* Lecture-10: Concurrent and Parallel programming.
-* Lecture-11: Utilities (regular expressions, accessing remote resources).
+* Scrapping websites: [M09](./Lecturenotes/09_Accessing_Remote_Resources.ipynb)
+* Concurrent and Parallel programming: [M14](./Lecturenotes/14_Concurrent_and_Parallel_Programming.ipynb)
 
 #### 10:45 - 12:15. Coffee break, then doing exercises.
+
+Exercise: Check out this website: https://www.cs.uu.nl/education
+that lists all courses offered by our Dept. of Computing Science. Scrap this website to obtain a list of all course codes.
+
+Check the documentation of Beautiful Soup here: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+Some functions/attributes you might find useful are: `find_all()` and `contents`.
 
 #### 12:15 - 13:00. Lunch break
 
 #### 13:00 - 14:00. Lectures
-* Lecture-12: Python libraries for Data Science
+* Python libraries for Data Science: [M10](./Lecturenotes/10_CRISP-DM_and_Data_Science_Libraries.ipynb)
 
 #### 14:00 - 17:00. Coffee break, then a small project.
+
+Project: do the McDonald project in [M10](./Lecturenotes/10_CRISP-DM_and_Data_Science_Libraries.ipynb).
 
 #### 17:00. Closing
